@@ -1,4 +1,4 @@
 # beginnerproject
 This is my first git repo
 <br>
-Author- Purab Ganvir
+Author- Purab Ganvir(Kunal)
